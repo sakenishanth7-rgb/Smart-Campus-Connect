@@ -25,3 +25,7 @@ https://smart-campus-connect-dtil.lovable.app/
 ## Goal
 
 To create a connected campus ecosystem that improves communication, accessibility, and engagement while providing a seamless digital experience for the academic community.
+
+## Credits
+
+Built with Lovable and customized, deployed, and maintained by Nishanth Sake.
